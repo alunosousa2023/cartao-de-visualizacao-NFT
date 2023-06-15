@@ -100,7 +100,7 @@ main {
     padding: 15px 0px;
 }
 
-span {
+#span1, #span2 {
     display: inline-flex;
     
 }

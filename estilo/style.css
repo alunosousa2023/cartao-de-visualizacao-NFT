@@ -100,26 +100,26 @@ main {
     padding: 15px 0px;
 }
 
-#span1, #span2 {
+#div1, #div2 {
     display: inline-flex;
     
 }
 
-#span1 {
+#div1 {
     font-family: 'Frances' sans-serif;
     font-weight: 700;
     margin-right: 25%;
     color: #0FF2DB;
 }
 
-#span2 {
+#div2 {
     font-family: 'Frances' sans-serif;
     font-weight: 700;
     color: rgba(255, 255, 255, 0.455);
 }
 
 
-span >.img_etherium_clock {
+div >.img_etherium_clock {
     padding-right: 10px;
 }
 
